@@ -1,23 +1,19 @@
 {
-  "name": "githubactionsnodeeslint",
+  "name": "eslint",
   "version": "0.0.1",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "build": "echo \"no build specified\"",
-    "lint": "eslint .",
-    "test": "echo \"no test specified\""
+    "lint": "eslint ."
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/waspQl/githubActionsNodeEslint.git"
+    "url": "git+https://github.com/waspQl/Eslint.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/waspQl/githubActionsNodeEslint/issues"
+    "url": "https://github.com/waspQl/Eslint/issues"
   },
-  "homepage": "https://github.com/waspQl/githubActionsNodeEslint#readme",
   "devDependencies": {
     "eslint": "6.8.0"
   }
