@@ -1,5 +1,5 @@
 {
-  "name": "eslint",
+  "name": "_eslint",
   "version": "0.0.1",
   "description": "",
   "scripts": {
@@ -7,12 +7,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/waspQl/Eslint.git"
+    "url": "git+https://github.com/waspQl/_eslint.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/waspQl/Eslint/issues"
+    "url": "https://github.com/waspQl/_eslint/issues"
   },
   "devDependencies": {
     "eslint": "6.8.0"
